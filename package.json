@@ -20,6 +20,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "good": "^5.1.1",
+    "good-console": "^4.1.0",
+    "hapi": "^8.2.0",
+    "jade": "^1.9.2"
   },
   "devDependencies": {
     "gulp": "^3.8.10",
