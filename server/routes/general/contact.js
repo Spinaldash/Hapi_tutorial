@@ -1,6 +1,6 @@
 'use strict';
 module.exports = {
   handler: function(request, reply) {
-    reply.view('home');
+    reply.view('templates/general/contact');
   }
 };
